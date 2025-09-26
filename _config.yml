@@ -27,29 +27,29 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Uzbekistan"
+  employer         : "National University of UZbekistan"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bmahmudbey@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=wd7-ywQAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Makhmud-Bobokandov"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57432107100"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  github           : "https://github.com/Mahmudbey"
+  kaggle           : "https://www.kaggle.com/makhmudbobokandov"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/mahmudbey/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
