@@ -23,13 +23,13 @@ repository               : "Mahmudbey/Makhmud.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "cropped-IT9A1398.JPG"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Uzbekistan"
-  employer         : "National University of UZbekistan"
-  uri              : # URL
+  employer         : "National University of Uzbekistan"
+  uri              : "https://orcid.org/0000-0002-3326-4390"
   email            : "bmahmudbey@gmail.com" 
 
   # Academic websites
